@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/albert3-3/chessquick-client.git
+[submodule "server"]
+	path = server
+	url = https://github.com/albert3-3/chessquick-server.git
